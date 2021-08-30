@@ -1,0 +1,37 @@
+
+//No1
+let people = ["gray","Mary","Davon","James"];
+// for(let j=0;j<people.length;j++){
+//    // console.log(people[j]);
+// }
+//console.log(people[j]);
+
+//NO 2
+// people.shift();
+// console.log(people);
+//no 3
+// people.pop();
+// console.log(people);
+//no4
+// people.unshift("matt");
+// console.log(people);
+//no5
+// people.push(loveth);
+// console.log(people);
+//no 6
+// for(let j=0;j<people.length;j++){
+//    people.splice(1,1);
+//}
+//    console.log(people);
+//no 7
+// people.slice(0,3,"mary","matt");
+// console.log(people);
+//no8
+
+// let foag =   people.indexOf("Mary");
+// console.log(foag);
+//no 9
+let foag =   people.indexOf("Foo");
+console.log(foag);
+//10
+people.slice()
